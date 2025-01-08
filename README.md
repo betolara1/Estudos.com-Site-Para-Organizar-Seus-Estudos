@@ -1,20 +1,25 @@
-📚 Estudos.com - Plataforma de Organização de Estudos
-💡 Sobre o Projeto
+# 📚 Estudos.com - Plataforma de Organização de Estudos
+
+## 💡 Sobre o Projeto
+
 Estudos.com é uma plataforma web desenvolvida em Python + Django, projetada para auxiliar estudantes na organização de seus estudos diários. A plataforma permite que os usuários criem e gerenciem seus próprios materiais de estudo, incluindo flashcards e apostilas personalizadas.
 
-✨ Funcionalidades Principais
-📝 Criação e gerenciamento de apostilas
-🔄 Sistema de flashcards para memorização
-📊 Acompanhamento assíncrono de estudos
-👥 Gerenciamento de usuários
-📚 Organização de materiais didáticos
-🛠️ Tecnologias Utilizadas
-HTML: 54.9%
-Python + Django: 39.3%
-CSS: 5.4%
-JavaScript: 0.4%
+## ✨ Funcionalidades Principais
 
-📁 Estrutura do Projeto
+- 📝 Criação e gerenciamento de apostilas
+- 🔄 Sistema de flashcards para memorização
+- 📊 Acompanhamento assíncrono de estudos
+- 👥 Gerenciamento de usuários
+- 📚 Organização de materiais didáticos
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML:** 54.9%
+- **Python + Django:** 39.3%
+- **CSS:** 5.4%
+- **JavaScript:** 0.4%
+
+## 📁 Estrutura do Projeto
 Estudos.com/
 ├── apostilas/         # Gerenciamento de materiais didáticos
 ├── flashcard/         # Sistema de cartões de memorização
